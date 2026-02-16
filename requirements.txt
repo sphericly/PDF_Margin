@@ -1,2 +1,4 @@
 pypdf
+pymupdf
+Pillow
 pyinstaller
